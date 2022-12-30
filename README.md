@@ -5,4 +5,4 @@ Controls are:
   Mouse click to shoot
   SPACE to dash
 
-The game is an endless survival game based on the story of a slime looking to collect all of his lost friends from guards.
+The game is a prototype endless survival game, made to be a top down shooter.
